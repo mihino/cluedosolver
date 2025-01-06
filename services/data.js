@@ -8,6 +8,31 @@
 
     data.cardSets = [
       {
+        name: "Standard CZ",
+        cards: [
+          {name:"Slecna Sára", group:"Suspect"},
+          {name:"Paní Pávová", group:"Suspect"},
+          {name:"Prof. Švestka", group:"Suspect"},
+          {name:"Reverend Zelenka", group:"Suspect"},
+          {name:"Pluk. Žloutek", group:"Suspect"},
+          {name:"Doktorka Kvítková", group:"Suspect"},
+          {name:"Svícen", group:"Weapon"},
+          {name:"Provaz", group:"Weapon"},
+          {name:"Dýka", group:"Weapon"},
+          {name:"Revolver", group:"Weapon"},
+          {name:"Klíc", group:"Weapon"},
+          {name:"Olovená trubka", group:"Weapon"},
+          {name:"Zimní zahrada", group:"Location"},
+          {name:"Kulecníková místnost", group:"Location"},
+          {name:"Chodba", group:"Location"},
+          {name:"Knihovna", group:"Location"},
+          {name:"Kuchyn", group:"Location"},
+          {name:"Klubovna", group:"Location"},
+          {name:"Tanecní sál", group:"Location"},
+          {name:"Pracovna", group:"Location"},
+          {name:"Jídelna", group:"Location"}
+        ]
+      },      {
         name: "Standard UK",
         cards: [
           {name:"Miss Scarlett", group:"Suspect"},
